@@ -1,3 +1,4 @@
+
 from output import get_number, multiply_numbers
 
 def main():
@@ -11,4 +12,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-#
+
